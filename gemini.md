@@ -50,4 +50,4 @@ Gemini ofrece soluciones avanzadas para:
 5. **Guarda o comparte el contenido**:
    - Descarga los resultados en tu dispositivo.
    - Comparte directamente desde la plataforma con otros usuarios.
-   ![Opciones de compartir](https://via.placeholder.com/400x200)
+   ![Opciones de compartir](https://via.placeholder.com/400x200)c
