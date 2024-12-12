@@ -1,4 +1,5 @@
-![Logo de GitHub](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt4OCzkyILO-Mi44yczdwUMBVro6pebWaFAQ&s)
+# GitHub Copilot: 
+![Logo de GitHub](https://www.camarabilbao.com/wp-content/uploads/2024/05/github-copilot.jpeg)
 ### 🚀Transformando la Programación con Inteligencia Artificial
 
 En la programación, las herramientas que optimizan el desarrollo han llevado a innovaciones como **GitHub Copilot**, un asistente de IA creado por GitHub y OpenAI. Lanzado en 2021, utiliza el modelo Codex, basado en GPT-3, para asistir a los desarrolladores generando y completando código en múltiples lenguajes, adaptándose tanto a principiantes como a expertos.
