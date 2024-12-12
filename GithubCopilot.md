@@ -1,7 +1,4 @@
-<div style="position: relative;">
-  <img src="https://visualstudioexptteam.gallerycdn.vsassets.io/extensions/visualstudioexptteam/vsgithubcopilot/0.2.755.36570/1711150244939/Microsoft.VisualStudio.Services.Icons.Default" alt="Logo de GitHub" style="position: absolute; top: 0; right: 0; width: 50%; height: auto; z-index: -1;">
-</div>
-
+![Logo de GitHub](https://res.cloudinary.com/apideck/image/upload/w_128,f_auto/v1624987910/icons/github-copilot.png)
 # GitHub Copilot
 ### 🚀Transformando la Programación con Inteligencia Artificial
 
