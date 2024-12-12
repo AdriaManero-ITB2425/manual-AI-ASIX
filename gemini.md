@@ -26,7 +26,7 @@ Gemini ofrece soluciones avanzadas para:
 
 ## Instrucciones: Cómo usar Gemini
 
-### Paso a paso:
+### Paso a paso:ss
 
 1. **Acceso a la plataforma**:
    - Ingresa en el portal web o descarga la aplicación de Gemini.
