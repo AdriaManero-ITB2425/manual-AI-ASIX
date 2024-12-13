@@ -1,5 +1,5 @@
 ![Imagen de Gemini IA](https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg)
-## Que és Gemini?
+
 Gemini es una avanzada plataforma de inteligencia artificial creada para transformar y optimizar procesos en diversos sectores. Su objetivo principal es proporcionar herramientas que no solo sean altamente eficientes, sino también sostenibles desde el punto de vista medioambiental.
 
 
