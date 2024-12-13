@@ -8,6 +8,25 @@ Copilot se integra con IDEs como **Visual Studio Code**, **Visual Studio** y **J
 
 Su capacidad para transformar el flujo de trabajo ahorra tiempo y mejora la productividad, permitiendo a los desarrolladores centrarse en resolver problemas en lugar de detalles sintácticos. Desde su lanzamiento, ha sido reconocido como una herramienta revolucionaria que redefine cómo programamos.
 
+## Ejemplo de código con GitHub Copilot
+
+Este es un ejemplo de código generado por **GitHub Copilot** en JavaScript. La función siguiente calcula la suma de los elementos de un arreglo:
+
+```javascript
+// Función para calcular la suma de los elementos de un arreglo
+function sumaDeArreglo(arreglo) {
+    let suma = 0;
+    for (let i = 0; i < arreglo.length; i++) {
+        suma += arreglo[i];
+    }
+    return suma;
+}
+
+// Ejemplo de uso
+const numeros = [1, 2, 3, 4, 5];
+console.log(sumaDeArreglo(numeros)); // Resultado: 15
+```
+
 ## 💼 Las aplicaciones de GitHub Copilot
 
 GitHub Copilot es una herramienta de asistencia a la programación basada en inteligencia artificial que ayuda a los desarrolladores a escribir código de forma más rápida y eficiente. Sus aplicaciones incluyen:
