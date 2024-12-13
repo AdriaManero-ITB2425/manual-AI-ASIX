@@ -1,6 +1,7 @@
 ### 📘 Manual de Cisco AI Network Analytics
 
 #### ✨ Introducción
+![imagen](Captura%20de%20pantalla%20de%202024-12-13%2008-17-46.png)
 Cisco AI Network Analytics es una herramienta avanzada diseñada para optimizar la gestión de redes mediante el uso de inteligencia artificial (IA) y aprendizaje automático (ML). Lanzada como parte de la suite Cisco DNA Center, esta tecnología permite a los administradores de TI analizar grandes volúmenes de datos en tiempo real para identificar patrones, predecir problemas y mejorar la eficiencia operativa. 
 
 **Breve historia:** Cisco AI Network Analytics es una extensión de los esfuerzos de Cisco por integrar la IA en la gestión de redes, consolidando décadas de experiencia en tecnología de redes con las capacidades modernas de IA.
