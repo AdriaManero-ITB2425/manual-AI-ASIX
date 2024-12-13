@@ -33,7 +33,7 @@ El entrenamiento de modelos como Codex, en el que se basa GitHub Copilot, requie
 - **Fabricación de hardware**: El desarrollo de hardware especializado para soportar IA, como las GPU, requiere la extracción de recursos naturales, aumentando la huella ecológica.
 - **Residuos electrónicos**: La obsolescencia del hardware puede generar desechos si no se gestionan adecuadamente.
 
-![Logo](https://capital-riesgo.es/files/media/image/articles/2024/11/original/15886impacto-de-la-inteligencia-artificial-en-la-sostenibilidad-esg.jpg)
+![Logo](https://www.blog.crownet.net/wp-content/uploads/2024/04/Impacto-ambiental-IA.jpg)
 
 ## 🌱 Propuestas para minimizar los impactos ambientales
 
