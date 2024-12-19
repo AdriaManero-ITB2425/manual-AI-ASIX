@@ -67,4 +67,3 @@ Para que herramientas como GitHub Copilot sean más sostenibles, se pueden imple
 
 - [¿Qué es GitHub Copilot y cómo funciona?](https://www.xataka.com/basics/que-copilot-github-como-funciona-esta-inteligencia-artificial-que-te-ayuda-a-programar)
 - [Documentación oficial de GitHub Copilot](https://docs.github.com/es/copilot/about-github-copilot/what-is-github-copilot)
-- [GitHub Copilot en Plain Concepts](https://www.plainconcepts.com/es/github-copilot/)
