@@ -48,7 +48,7 @@ Gemini ofrece soluciones avanzadas para:
 2. **Selecciona la herramienta adecuada**:
   - Una vez dentro, encontrarás opciones clave como:
     - Chat interactivo: Para interactuar con Gemini como un asistente virtual.
-    - Generación de contenido: Herramientas para crear texto, resúmenes, análisis, etc.
+    - Generación de contenido: Herramientas para crear texto, resúmenes, análisis, etc..
     - Integraciones: Opciones para vincular Gemini a otras aplicaciones como Google Docs o Sheets.
  
 
