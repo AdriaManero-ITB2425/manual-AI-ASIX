@@ -11,26 +11,25 @@ Para poder publicar en GitHub Pages, es necesario tener una cuenta en GitHub y c
 ## 👣 Pasos para publicar
 
 **1.** Accede a la configuración de tu repositorio.
-![Imagen](../images/sel_seting.png){: width="1000%" align="center" style="display: block; margin-left: auto; margin-right: auto; margin-top:20px;"}
+![Imagen](../images/sel_seting.png)
 **2.** Luego, dirígete a la sección de Pages.
-![Imagen](./images/sel_pag.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto; margin-top:20px;"}
-
+![Imagen](./images/sel_pag.png)
 **3.** Verás el siguiente menú:
-![Imagen](../images/config_root.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+![Imagen](../images/config_root.png)
 Debes seleccionar "deploy from a branch" y, por defecto, mantenerlo en la rama principal (main) dentro de la carpeta raíz (root). Se recomienda organizar los archivos dentro de una carpeta llamada "src" y colocar el archivo de índice o README fuera de esta para presentar el sitio.
-![Imagen](../images/org.png){: width="60%" align="center" style="display: block; margin-left: auto; margin-right: auto;"}
+![Imagen](../images/org.png)
 
 ## ✅ Confirmación
 
 Para verificar que tu página se ha publicado correctamente, solo debes esperar unos minutos. En la sección donde configuraste la publicación de tu repositorio, aparecerá un mensaje emergente con un enlace que te redirigirá a tu página web.
-![Imagen](../images/result_final.png){: width="1000%" align="center" style="display: block; margin-left: auto; margin-right: auto; margin-top:20px;"}
+![Imagen](../images/result_final.png)
 Una vez que hagas clic en el enlace, serás dirigido a tu nueva página, que mostrará la información contenida en los archivos del repositorio, siempre que todos los datos sean correctos.
 
 ## Funciones adicionales
 
 Aquí te mostramos algunas características extra de GitHub Pages:
 
-![Imagen](../images/config_extra.png){: width="1000%" align="center" style="display: block; margin-left: auto; margin-right: auto; margin-top: 1px;"}
+![Imagen](../images/config_extra.png)
 
 🔹 **Dominio personalizado:** GitHub no solo te proporciona un subdominio, sino que también te permite añadir un dominio personalizado para tu sitio web.
 
@@ -40,4 +39,4 @@ Aquí te mostramos algunas características extra de GitHub Pages:
 
 ---
 
-[**Volver al Índice**](../../README.md){: .btn .btn-primary .float-right}
+[**Volver al Índice**](../../README.md)
