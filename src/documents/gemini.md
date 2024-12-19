@@ -75,3 +75,7 @@ Gemini ofrece soluciones avanzadas para:
   - Consulta foros de soporte o comunidades como [Google AI Community](https://www.googlecloudcommunity.com/gc/AI-ML/bd-p/cloud-ai-ml).
  
   ![Opciones de compartir](https://www.unite.ai/wp-content/uploads/2024/02/google-gemini-cover.webp)
+
+---
+
+[**Volver al Índice**](../../README.md){: .btn .btn-primary .float-right}

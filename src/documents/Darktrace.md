@@ -70,3 +70,7 @@ Para reducir el impacto ambiental asociado con el uso de Darktrace y otras herra
 Darktrace representa una herramienta de ciberseguridad revolucionaria que combina inteligencia artificial avanzada y respuesta automatizada para proteger sistemas digitales. Su uso permite no solo detectar y mitigar amenazas de manera efectiva, sino también fortalecer la resiliencia de las organizaciones frente a un panorama de amenazas cada vez más complejo. Al implementar medidas para reducir su impacto ambiental, se puede asegurar un uso más sostenible y ético de esta tecnología de vanguardia.
 
 ![Futuro Sostenible](../images/foto1.jpg "Hacia un futuro más sostenible")
+
+---
+
+[**Volver al Índice**](../../README.md){: .btn .btn-primary .float-right}
