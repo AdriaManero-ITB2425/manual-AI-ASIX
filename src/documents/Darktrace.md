@@ -58,7 +58,7 @@ El uso de inteligencia artificial en la ciberseguridad, aunque beneficioso, tien
 ### Propuestas para minimizar el impacto ambiental 🌍
 Para reducir el impacto ambiental asociado con el uso de Darktrace y otras herramientas de IA, se proponen las siguientes medidas:
 
-![Energías Renovables](./foto2.jpg)
+![Energías Renovables](../images/foto2.jpg)
 1. **Optimización energética:** Configurar horarios de análisis automáticos y priorizar el uso de servidores más eficientes para reducir el consumo energético.
 2. **Uso de energías renovables:** Implementar infraestructura tecnológica alimentada por fuentes de energía sostenibles, como paneles solares o energía eólica.
 3. **Arquitectura descentralizada:** Diseñar soluciones que reduzcan la dependencia de centros de datos centralizados, utilizando nodos locales más eficientes.
@@ -69,4 +69,4 @@ Para reducir el impacto ambiental asociado con el uso de Darktrace y otras herra
 ## Conclusión 🏁
 Darktrace representa una herramienta de ciberseguridad revolucionaria que combina inteligencia artificial avanzada y respuesta automatizada para proteger sistemas digitales. Su uso permite no solo detectar y mitigar amenazas de manera efectiva, sino también fortalecer la resiliencia de las organizaciones frente a un panorama de amenazas cada vez más complejo. Al implementar medidas para reducir su impacto ambiental, se puede asegurar un uso más sostenible y ético de esta tecnología de vanguardia.
 
-![Futuro Sostenible](./foto1.jpg "Hacia un futuro más sostenible")
+![Futuro Sostenible](../images/foto1.jpg "Hacia un futuro más sostenible")

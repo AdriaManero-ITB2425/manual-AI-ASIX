@@ -8,10 +8,10 @@
 
 ## 📜 Índice  
 
-1. [🌐 Redes](./src/ia_redes/xxx.md)  
-2. [🔒 Gestión de la Seguridad](./src/ia_gestión/xxx.md)  
-3. [🛠️ Soporte Técnico](./src/ia_soporte/xxx.md)   
-4. [💻 Desarrollo](./src/ia_desarrollo/xxx.md)   
+1. [🌐 Redes](./src/documents/ciscoAI-Network.md)  
+2. [🔒 Gestión de la Seguridad](./src/documents/Darktrace.md)  
+3. [🛠️ Soporte Técnico](./src/documents/gemini.md)   
+4. [💻 Desarrollo](./src/documents/GithubCopilot.md)   
 
 ---
 
